@@ -11,4 +11,4 @@
 - Realizar um DER para modelar o cenário.
 
 
-<img width="611" alt="Captura de Tela 2024-12-21 às 09 07 54" src="https://github.com/user-attachments/assets/304503ef-bba0-4d31-84a1-9167b8c92af1" />
+<img width="611" alt="Captura de Tela 2024-12-21 às 09 07 54" src="https://github.com/user-attachments/assets/78da617f-410b-445c-9263-1249d5583d73" />
